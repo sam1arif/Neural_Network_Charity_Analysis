@@ -25,7 +25,7 @@ We used the following methods for the analysis for this project:
           2. we used relu activation method for our input data and sigmoid method for output data.
           3. the accuracy of the model is 0.53. 
         
-### ) optimize the model:
+### c) optimize the model:
           1. we used adam optimizer and binary_crossentropy.
           2. even after three atempts, the model accuracy is under 75%. This is not accurate enough to predict the result of the charity donations.
           3. we also applied the tanh activation method to check if we could increase our efficiency but it did not help.
