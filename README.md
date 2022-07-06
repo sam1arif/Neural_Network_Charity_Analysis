@@ -33,7 +33,7 @@ We used the following methods for the analysis for this project:
           
 ## Summary:
     
-    The deep learning neural network model did not hit our desired result of 75% accuracy, meaning our model is not performing well enough for doing accurate predictions. 
+    The deep learning neural network model did not hit our desired result of 75% accuracy (even though it got close with our third attempt), meaning our model is not performing well enough for doing accurate predictions. 
 Since the aim of the analysis is to find a yes/no answer (binary result), we would be better off if we used a supervised machine learning for this project instead of complicating it by using neural network or deep learning. 
           
           
